@@ -3,7 +3,7 @@
 <h2>https://tryhackme.com/path/outline/presecurity</h2>
 <h2>https://tryhackme.com/path/outline/introtocyber</h2>
 
-<h2>Points of Interest:</h2>
+<h2>Concepts Covered:</h2>
 
 - <b>Introduction to Cyber Security</b>
 - <b>Introduction to Offensive Security</b>
